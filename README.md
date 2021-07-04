@@ -1,5 +1,5 @@
 ## Introduction
-Sparkify is a Mobile App for Streaming music. This project aims to build a prototype of db that log all clietns actions and stores it into DWH
+Sparkify is a Mobile App for Streaming music. This project aims to build a prototype of db that log all clients actions and stores it into DWH
 
 ## DWH structure
 
